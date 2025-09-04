@@ -1,0 +1,4 @@
+a="welcome"
+b="to python"
+c=a+b
+print(c)
